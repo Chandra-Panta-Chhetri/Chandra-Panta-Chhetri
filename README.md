@@ -30,10 +30,18 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
-  <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chandra-panta-chhetri&show_icons=true&hide_border=true" />
+  ![Chandra Panta Chhetri's github stats](https://github-readme-stats.vercel.app/api?username=chandra-panta-chhetri&show_icons=true&include_all_commits=true&count_private=true&custom_title=)
+</details>
 
+<details>
+  <summary>Frequently Used Languages</summary>
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-panta-chhetri&layout=compact&custom_title=Frequently%20Used%20Languages)
+  <p>
+    NOTE: Top Languages does not indicate my skill level, it's a GitHub metric of which languages have the most code on GitHub.
+  </p>
 </details>
 
 [website]: https://chandra-pantachhetri.ca
