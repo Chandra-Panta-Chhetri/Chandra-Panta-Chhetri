@@ -1,10 +1,10 @@
-### Hi there, I'm Chandra 👋
+### Hi there, I'm [Chandra][website] 👋
 
-### I'm a Student and Learning Enthusiast📕!!
+I'm a passionate Software Engineer student with an **insatiable desire to learn** and work with new technologies!
 
-- I’m currently learning everything 🤣 but primarily focusing on React, and Node.js
-- I’m always looking to collaborate with others on exciting projects
-- 2021 Goals: Contribute to Open Source projects
+- 🌱 I’m currently learning everything 🤣 but currently focusing on React, and Node.js
+- 👯 I’m always looking to collaborate with others on exciting projects
+- 🎯 2021 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 
@@ -18,6 +18,7 @@
 ### 📕 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Infinite Scroll With Firebase, React, Intersection Observer & Redux Saga](https://dev.to/chandrapantachhetri/infinite-scroll-pagination-with-firebase-react-intersection-observer-redux-saga-4fd)
 - [Responsive React File Upload Component With Drag And Drop](https://dev.to/chandrapantachhetri/responsive-react-file-upload-component-with-drag-and-drop-4ef8)
 - [Sending Emails Securely Using Node.js, Nodemailer, SMTP, Gmail, and OAuth2](https://dev.to/chandrapantachhetri/sending-emails-securely-using-node-js-nodemailer-smtp-gmail-and-oauth2-g3a)
@@ -32,16 +33,17 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  ![Chandra Panta Chhetri's github stats](https://github-readme-stats.vercel.app/api?username=chandra-panta-chhetri&show_icons=true&include_all_commits=true&count_private=true&custom_title=)
+![Chandra Panta Chhetri's github stats](https://github-readme-stats.vercel.app/api?username=chandra-panta-chhetri&show_icons=true&include_all_commits=true&count_private=true&custom_title=)
+
 </details>
 
 <details>
   <summary>Frequently Used Languages</summary>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-panta-chhetri&layout=compact&custom_title=Frequently%20Used%20Languages)
-  <p>
-    NOTE: Top Languages does not indicate my skill level, it's a GitHub metric of which languages have the most code on GitHub.
-  </p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-panta-chhetri&layout=compact&custom_title=Frequently%20Used%20Languages)
+
+_NOTE: Frequently used languages does not indicate my skill level or something like that, it's a metric of which languages I have used the most code on GitHub._
+
 </details>
 
 [website]: https://chandra-pantachhetri.ca
