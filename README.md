@@ -42,7 +42,7 @@ I'm a passionate Software Engineer student with an **insatiable desire to learn*
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-panta-chhetri&layout=compact&custom_title=Frequently%20Used%20Languages)
 
-_NOTE: Frequently used languages does not indicate my skill level, it's a metric of which languages I have used the most code on GitHub._
+_NOTE: Frequently used languages does not indicate my skill level, it's a metric of which languages I have used the most on GitHub._
 
 </details>
 
