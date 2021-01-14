@@ -2,7 +2,7 @@
 
 I'm a passionate Software Engineer student with an **insatiable desire to learn** and work with new technologies!
 
-- 🌱 I’m currently learning everything 🤣 but currently focusing on React, and Node.js
+- 🌱 I’m currently learning everything 🤣 but primarily focusing on React, and Node.js
 - 👯 I’m always looking to collaborate with others on exciting projects
 - 🎯 2021 Goals: Contribute to Open Source projects
 
@@ -42,7 +42,7 @@ I'm a passionate Software Engineer student with an **insatiable desire to learn*
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-panta-chhetri&layout=compact&custom_title=Frequently%20Used%20Languages)
 
-_NOTE: Frequently used languages does not indicate my skill level or something like that, it's a metric of which languages I have used the most code on GitHub._
+_NOTE: Frequently used languages does not indicate my skill level, it's a metric of which languages I have used the most code on GitHub._
 
 </details>
 
