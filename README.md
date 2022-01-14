@@ -4,7 +4,7 @@ I'm a passionate Software Engineer student with an **insatiable desire to learn*
 
 - 🌱 I’m currently learning everything 🤣 but primarily focusing on React, and Node.js
 - 👯 I’m always looking to collaborate with others on exciting projects
-- 🎯 2021 Goals: Contribute to Open Source projects
+- 🎯 2022 Goals: Contribute to Open Source projects, learn more about the tools in the React ecosystem, & learn about architecting Node.js APIs 
 
 ### Connect with me:
 
