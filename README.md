@@ -4,7 +4,7 @@ I'm a software developer with an **insatiable desire to learn** and work with di
 
 ### Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,gatsby,js,react,nodejs,postgres,mongodb,nextjs,git,docker,githubactions&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,gatsby,js,react,nodejs,postgres,mongodb,git,docker,githubactions&theme=dark)](https://skillicons.dev)
 <br />
 
 [website]: https://chandra-pantachhetri.ca
